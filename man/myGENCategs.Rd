@@ -15,4 +15,3 @@ categorias <- myCategs[["categs"]]
 nombres <-  myCategs[["noms"]]
 }
 \keyword{categories}
-
